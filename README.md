@@ -6,10 +6,10 @@ This Java-based dog race betting game offers users an interactive and entertaini
 
 ## Application
 #### Bidding menu
-![Menu](Assets/PlaceBet.png)
+![PlaceBet](Assets/PlaceBet.png)
 #### Choose the dog
-![Menu](Assets/Dog.png)
+![Dog](Assets/Dog.png)
 #### The race
-![Menu](Assets/Race.png)
+![Race](Assets/Race.png)
 
 
